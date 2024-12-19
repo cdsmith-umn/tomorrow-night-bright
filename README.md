@@ -1,16 +1,3 @@
-# tomorrow-night-bright README
+# Tomorrow Night Bright
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This is a VS Code theme based on my own VIM color scheme, "Tomorrow Night Bright", which is itself based on the "Tomorrow Night" color scheme by Chris Kempson. You should be able to simply checkout a copy of this repository, copy the directory into your VS Code extensions directory, and install/enable it in VS Code.
