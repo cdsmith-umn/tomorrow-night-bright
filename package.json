@@ -1,0 +1,30 @@
+{
+  "name": "tomorrow-night-bright",
+  "displayName": "Tomorrow Night Bright",
+  "description": "Color scheme based on Tomorrow Night from VIM",
+  "version": "0.0.1",
+  "publisher": "cdsmith-umn",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "homepage": "https://github.com/cdsmith-umn/TomorrowNightBright",
+  "sponsor": {
+    "url": "https://github.com/sponsors/cdsmith-umn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdsmith-umn/TomorrowNightBright.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Night Bright Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomorrow Night Bright Colors-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Tomorrow Night Bright",
+  "type": "dark",
+  "colors": {
+    "editor.foreground": "#eaeaea",
+    "editor.background": "#000000",
+    "editor.selectionBackground": "#424242",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "editorCursor.foreground": "#eaeaea",
+    "editorWhitespace.foreground": "#969896",
+    "editorIndentGuide.activeBackground": "#eaeaea",
+    "editorIndentGuide.background": "#969896"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#969896"
+      }
+    },
+    {
+      "scope": ["constant", "entity.name.constant", "variable.other.constant"],
+      "settings": {
+        "foreground": "#e7c547"
+      }
+    },
+    {
+      "scope": ["entity", "entity.name"],
+      "settings": {
+        "foreground": "#d54e53"
+      }
+    },
+    {
+      "scope": ["variable", "support.variable"],
+      "settings": {
+        "foreground": "#eaeaea"
+      }
+    },
+    {
+      "scope": ["keyword", "storage", "storage.type"],
+      "settings": {
+        "foreground": "#e78c45"
+      }
+    },
+    {
+      "scope": ["storage.modifier"],
+      "settings": {
+        "foreground": "#e7c547"
+      }
+    },
+    {
+      "scope": ["string", "support.constant.property-value"],
+      "settings": {
+        "foreground": "#b9ca4a"
+      }
+    },
+    {
+      "scope": ["support", "support.function"],
+      "settings": {
+        "foreground": "#7aa6da"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#7aa6da"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#eaeaea"
+      }
+    },
+    {
+      "scope": ["entity.name.tag", "support.class.component"],
+      "settings": {
+        "foreground": "#c397d8"
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#70c0b1"
+      }
+    },
+    {
+      "scope": ["meta.preprocessor"],
+      "settings": {
+        "foreground": "#c397d8"
+      }
+    },
+    {
+      "scope": ["meta.preprocessor.string"],
+      "settings": {
+        "foreground": "#b9ca4a"
+      }
+    },
+    {
+      "scope": ["meta.preprocessor.numeric"],
+      "settings": {
+        "foreground": "#e7c547"
+      }
+    },
+    {
+      "scope": ["meta.preprocessor.keyword"],
+      "settings": {
+        "foreground": "#e78c45"
+      }
+    },
+    {
+      "scope": ["meta.preprocessor.include"],
+      "settings": {
+        "foreground": "#7aa6da"
+      }
+    }
+  ]
+}
